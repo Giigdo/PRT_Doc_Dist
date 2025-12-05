@@ -112,3 +112,6 @@ Combine with other tools: Integrate with video recording, screen capture, or fie
 prt_template.md - Full template with all question prompts
 prt_start_prompt.md - Copy-paste prompt to initiate sessions
 Multiple example PRTs showing the methodology across different research activities
+
+This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+For details, see the LICENSE file.
