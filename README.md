@@ -1,5 +1,9 @@
-The Project Reflection Tool (PRT) is a conversational documentation methodology designed specifically for design research and creative work. Developed by Peter Dalsgaard and Kim Halskov, it has been adapted to support Research through Design methodologies and PhD-level academic work.
-Purpose
+The Project Reflection Tool (PRT) is a conversational documentation methodology designed specifically for design research and creative work. Developed by Peter Dalsgaard and Kim Halskov, it has been adapted to support Research through Design methodologies and PhD-level academic work. It is recomended that you read these articles if you are unfamiliar with the PRT function and purpose in research as it is based directly on this work from 2012 and 2016, prior to the advent of widely available Generative AI.
+
+Dalsgaard, P., & Halskov, K. (2012). Reflective design documentation. 428–437. https://doi.org/10.1145/2317956.2318020
+Bardzell, J., Bardzell, S., Dalsgaard, P., Gross, S., & Halskov, K. (2016). Documenting the Research Through Design Process. Proceedings of the 2016 ACM Conference on Designing Interactive Systems, 96–107. https://doi.org/10.1145/2901790.2901859
+
+# Purpose
 
 The PRT serves dual functions in research practice:
 Daily Research Journal: Captures individual work activities, decisions, and insights as they happen
@@ -7,7 +11,7 @@ Long-term Research Archive: Enables retrospective analysis of research trajector
 Rather than struggling with formal written reflection, the PRT uses a conversational structure that allows you to think through talking or stream of consciousness writing making documentation feel more natural and aligned with oral knowledge traditions.
 Why Use the PRT?
 
-Key Benefits
+# Key Benefits
 
 Reduces cognitive load: Structured questions guide your reflection without overwhelming you
 Captures tacit knowledge: Documents the “how” and “why” of your work, not just the “what”
